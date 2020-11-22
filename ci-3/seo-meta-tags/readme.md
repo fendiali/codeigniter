@@ -6,8 +6,8 @@ Adding meta tags in CodeIgniter
 2. Add meta.php to the helpers folder.
 
 ## Customizations
-- Open meta.php, you can add facebook open graph and twitter card
-- For example controller, open controller-example.php 
+- Open meta.php, you can add facebook open graph and twitter card.
+- Open controller-example.php, For controller example.
 
 ## Usage
 Call meta function in your header for individual view
