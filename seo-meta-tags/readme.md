@@ -1,4 +1,4 @@
-# SEO Meta Tags - CodeIgniter 3
+# SEO Meta Tags Helper - CodeIgniter 3
 Adding meta tags in CodeIgniter
 
 ## Installation
